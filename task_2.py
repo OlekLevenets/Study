@@ -1,4 +1,5 @@
 print("Hello, GitHub!")
-inches = float(input("Введіть кількість дюймів: "))
+
+inches = float(input("Enter the number of inches: "))
 centimetres = inches * 2.54
-print(inches, "дюймів = ", centimetres, "см")
+print(inches, "inches = ", centimetres, "cm")
